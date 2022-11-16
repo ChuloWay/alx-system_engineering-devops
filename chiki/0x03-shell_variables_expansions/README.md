@@ -1,1 +1,1 @@
-Alx readme 3
+This is a task on shell, init files,variables and expansions

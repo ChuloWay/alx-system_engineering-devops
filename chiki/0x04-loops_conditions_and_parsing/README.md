@@ -1,1 +1,1 @@
-loops and condition devops
+Shellcheck Project
